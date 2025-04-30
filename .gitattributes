@@ -32,6 +32,51 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# Edge source file
+*.edge linguist-detectable=true
+*.edge linguist-documentation=false
+*.edge linguist-language=Edge
+*.ele linguist-detectable=true
+*.ele linguist-documentation=false
+*.ele linguist-language=Edge
+*.node linguist-detectable=true
+*.node linguist-documentation=false
+*.node linguist-language=Edge
+# EdgeQL source file
+*.edgeql linguist-detectable=true
+*.edgeql linguist-documentation=false
+*.edgeql linguist-language=EdgeQL
+*.esdl linguist-detectable=true
+*.esdl linguist-documentation=false
+*.esdl linguist-language=EdgeQL
+# HTTP source file
+*.http linguist-detectable=true
+*.http linguist-documentation=false
+*.http linguist-language=HTTP
+# TypeScript source file
+*.ts linguist-detectable=true
+*.ts linguist-documentation=false
+*.ts linguist-language=TypeScript
+*.tsx linguist-detectable=true
+*.tsx linguist-documentation=false
+*.tsx linguist-language=TypeScript
+# CSS source file
+*.css linguist-detectable=true
+*.css linguist-documentation=false
+*.css linguist-language=CSS
+# F# source file
+*.fs linguist-detectable=true
+*.fs linguist-documentation=false
+*.fs linguist-language=F#
+*.fsi linguist-detectable=true
+*.fsi linguist-documentation=false
+*.fsi linguist-language=F#
+*.fsscript linguist-detectable=true
+*.fsscript linguist-documentation=false
+*.fsscript linguist-language=F#
+*.fsx linguist-detectable=true
+*.fsx linguist-documentation=false
+*.fsx linguist-language=F#
 # Rust source file
 *.rs linguist-detectable=true
 *.rs linguist-documentation=false
@@ -171,7 +216,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2024, Wednesday, August 21st at 04:19 pm PST)
-# Line count (including blank lines and compiler line): 178
+# File version: 5 (2025, Tuesday, April 29th at 09:47 pm PST)
+# Line count (including blank lines and compiler line): 223
 
 # End of script
